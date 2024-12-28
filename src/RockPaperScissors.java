@@ -2,7 +2,6 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.Random;
 import javax.swing.*;
-import javax.swing.border.Border;
 
 public class RockPaperScissors {
     private final static String ROCK = "Rock";
